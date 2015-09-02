@@ -1,0 +1,13 @@
+{
+  "name": "google-font-helper",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "author": "saddieeiddas <saddie.eiddas@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "del": "^2.0.0",
+    "gulp": "^3.9.0",
+    "gulp-google-webfonts": "0.0.6"
+  }
+}
